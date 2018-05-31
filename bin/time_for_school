@@ -1,4 +1,4 @@
-ruby bin/time_for_school
+
 #!/usr/bin/env ruby
 
 require_relative "../lib/user.rb"
