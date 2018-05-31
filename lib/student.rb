@@ -1,4 +1,4 @@
-require "user.rb"
+require "./lib/user.rb"
 
 class Student < User
   attr_reader :knowledge
